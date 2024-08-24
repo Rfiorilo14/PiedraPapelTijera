@@ -2,7 +2,7 @@
 
 Trabajo Práctico número 0 de la materia Ingenieria de Software I de FIUBA
 
-* **Integrante ** - [Roy Fiorilo](https://github.com/Rfiorilo14)
+* **Integrante  :**  [Roy Fiorilo](https://github.com/Rfiorilo14)
 
 ```bash
 $ java -jar <archivo.jar>
